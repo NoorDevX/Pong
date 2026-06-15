@@ -42,7 +42,7 @@
 ### 📸 Screenshots
 
 <p align="center">
-  <img src="mainmenupong.png" width="600"/>
+  <img src="mainmenuPong.png" width="600"/>
   <br><br>
   <img src="midgamepong.png" width="600"/>
 </p>
